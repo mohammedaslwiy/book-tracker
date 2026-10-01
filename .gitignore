@@ -1,4 +1,6 @@
 build/
+out/
+data/
 *.class
 .idea/
 .vscode/
